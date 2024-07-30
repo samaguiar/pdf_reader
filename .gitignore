@@ -1,8 +1,9 @@
-# ignore env
-env
+# Ignore virtual environment directories
+env/
+envPDF/
 
-# file with practice code
+# Ignore practice code file
 base.py
 
-# ignore pdf
-FL_School District Matching Grants Program.pdf
+# Optionally ignore all PDF files
+*.pdf
