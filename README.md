@@ -12,9 +12,9 @@ All needed packages can be installed by the requirements.txt file. The following
 *in progress*
 
 ## Next Steps:
-[x] Create base function to search one term
-[] Design interactive user application with tkinter for user input of file/search term
-[] Allow user to upload a folder to search one term
-[] Allow user to enter a list of terms
+[x] Create base function to search one term \n
+[] Design interactive user application with tkinter for user input of file/search term \n
+[] Allow user to upload a folder to search one term \n
+[] Allow user to enter a list of terms \n
 [] Speed up procress 
 
