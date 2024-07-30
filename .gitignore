@@ -1,8 +1,8 @@
 # ignore env
-.env
+env
 
 # file with practice code
 base.py
 
 # ignore pdf
-.pdf
+FL_School District Matching Grants Program.pdf
