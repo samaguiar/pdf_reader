@@ -1,0 +1,8 @@
+# ignore env
+.env
+
+# file with practice code
+base.py
+
+# ignore pdf
+.pdf
